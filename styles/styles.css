@@ -1,0 +1,12 @@
+html{
+	height: 100%;
+}
+
+.carousel-inner img{
+    height: 550px;
+    width: 100%;
+}
+
+.resize img{
+	height: 150px;
+}
